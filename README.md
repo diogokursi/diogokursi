@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @diogokursi
 - 👀 I’m interested in data and business
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning experiences
+- 🌱 I’m currently studying my masters in Data Science and Advanced Analytics, with a specialization in Business Analytics
+- 💞️ I’m looking to collaborate impactful projects
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have a bachelors in Business Science
+- ⚡ Fun fact: I have a Bachelor's Dregree in Business Science
 
 <!---
 diogokursi/diogokursi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
