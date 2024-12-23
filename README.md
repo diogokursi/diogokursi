@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @diogokursi
 - 👀 I’m interested in data and business
-- 🌱 I’m currently studying my masters in Data Science and Advanced Analytics, with a specialization in Business Analytics
+- 🌱 I’m currently studying my masters in Data Science and Advanced Analytics
 - 💞️ I’m looking to collaborate in impactful projects
 - 📫 How to reach me: LinkedIn
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I have a Bachelor's Dregree in Business Science
 
 <!---
